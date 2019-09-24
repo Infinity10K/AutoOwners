@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.678,D:\Лабы\ЯиМП\AutoOwners_\Unit1.h=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=D:\Лабы\ЯиМП\AutoOwners_\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=D:\YandexDisk\КЦ\AutoOwners_\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,=H:\Рахмонкулов С.М\ЯиМП\Курсовая\AutoOwners_\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,D:\Лабы\ЯиМП\AutoOwners_\Project1.cbproj=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,D:\Лабы\ЯиМП\AutoOwners_\Unit1.cpp=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,=D:\Лабы\ЯиМП\AutoOwners_\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.188,=D:\Лабы\ЯиМП\AutoOwners_\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,=D:\Лабы\ЯиМП\AutoOwners_\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,D:\Лабы\ЯиМП\AutoOwners_\Unit1.dfm=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\Лабы\ЯиМП\AutoOwners_\Project1PCH1.h=C:\Users\ibloo\OneDrive\Документы\RAD Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="File1.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit6.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
